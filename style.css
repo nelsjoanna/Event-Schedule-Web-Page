@@ -7,25 +7,27 @@ body {
 header {
   text-align: center;
   margin-top: 5px;
+  font-family: 'Oleo Script Swash Caps', sans-serif;
 }
-
+  
 h1 {
-  font-size: 36px;
+  font-size: 40px;
   padding: 15px;
   color: #8c6b48;
   background-color: white;
+  font-family: 'Oleo Script Swash Caps', sans-serif;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 34px;
   padding: 15px;
   text-transform: uppercase;
+  font-family: 'Cute Font', sans-serif;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 18px;
   padding: 15px;
-  text-transform: uppercase;
   text-align: left;
   margin-left: 20px;
   font-weight: 500;
@@ -45,6 +47,7 @@ table {
 td {
   border: 2px solid #8c6b48;
   width: 300px;
+ 
 }
 
 footer {
